@@ -1,0 +1,2 @@
+background = 171E24
+chart background = 313941
